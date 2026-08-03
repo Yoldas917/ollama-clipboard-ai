@@ -1,0 +1,4 @@
+requests>=2.28.0
+pyperclip>=1.8.2
+pynput>=1.7.6
+rumps>=0.4.0
